@@ -1,6 +1,6 @@
 # matrix-rain
 
-another matrix rain in the terminal built to play with Python
+another matrix rain in a terminal, built to play with Python.
 
 
 
