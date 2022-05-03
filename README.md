@@ -12,5 +12,5 @@ https://user-images.githubusercontent.com/14028029/166402975-082e445b-1e94-4f36-
 ```sh
 git clone https://github.com/juliencrn/matrix-rain
 cd matrix-rain
-python3 matrix-rain
+python3 matrix_rain.py
 ```
